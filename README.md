@@ -4,7 +4,7 @@ The module helps managing GCP and Kubernetes service accounts using workload-ide
 
 ## Usage
 
-```
+```hcl
 module "cool-service-name" {
   name         = "cool-service-name"
   namespace    = "k8s-namespace"
